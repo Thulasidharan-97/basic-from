@@ -1,0 +1,32 @@
+body{
+    background: url(vishal\ nat.jpg);background-repeat: no-repeat;background-size: 100%;font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.regform{
+    width: 400px;
+    background-color: rgba(0,0,0,0.4);
+    margin:200px auto;padding:20px 30px 40px;color:aliceblue;font-size: 30px;border-radius: 20px;
+}
+.regform h3{
+    color:#E29578;text-align: center;
+}
+.regform label{
+    display: block;
+}
+.input input{
+    width: 100%;font-size: 20px;border:2px solid #FFF07C;border-radius: 10px;padding: 5px 10px;box-sizing: border-box;margin:6px 0px 15px;
+}
+input:focus{
+    background-color: #FFB627;
+}
+.btn{
+    text-align: center;
+}
+button{
+    background-color: aqua;
+    font-size: 25px;margin-top: 20px;padding: 5px 15px;border-radius: 10px;
+
+}
+.radio input{
+    transform: scale(2);
+}
+ 
